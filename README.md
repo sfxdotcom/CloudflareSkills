@@ -60,6 +60,7 @@ Skills are contextual and auto-loaded based on your conversation. When a request
 | sandbox-sdk | Secure code execution for AI code execution, code interpreters, CI/CD systems, and interactive dev environments |
 | wrangler | Deploying and managing Workers, KV, R2, D1, Vectorize, Queues, Workflows |
 | web-perf | Auditing Core Web Vitals (FCP, LCP, TBT, CLS), render-blocking resources, network chains |
+| wordpress-on-cloudflare | Optimising WordPress sites/plugins: R2 for /wp-content/uploads, `/cdn-cgi/image/` URL-based resizing, Cache Rules for HTML and REST, Workers patterns |
 | building-mcp-server-on-cloudflare | Building remote MCP servers with tools, OAuth, and deployment |
 | building-ai-agent-on-cloudflare | Building AI agents with state, WebSockets, and tool integration |
 
